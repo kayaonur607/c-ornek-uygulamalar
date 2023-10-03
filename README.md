@@ -1,1 +1,1 @@
-# c-ornek-uygulamalar
+#Örnek Uygulamalar
